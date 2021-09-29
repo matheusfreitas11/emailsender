@@ -16,4 +16,4 @@ Email Sender - API (TS, Next)
 
 - [x] Typescript, Next, Node, JS.
 - [x] Beekeeper.
-- [x] Postman.
+- [x] Handlebars.
